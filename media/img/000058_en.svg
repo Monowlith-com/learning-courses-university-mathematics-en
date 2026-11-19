@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="The scores ln(2) and 0 yield weights two thirds and one third after softmax. With values six and zero, the output is four.">
+<title>Attention: weighted combination</title>
+<desc>The scores ln(2) and 0 yield weights two thirds and one third after softmax. With values six and zero, the output is four.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Attention: weighted combination</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Worked example with two positions</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="58" y="150" width="364" height="316" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<rect x="475" y="150" width="425" height="316" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="75" y="188" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Scores</text>
+<text x="70" y="241" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start">s₁ = ln(2)</text>
+<text x="70" y="291" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="400" text-anchor="start">s₂ = 0</text>
+<text x="70" y="362" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">exp(s) = [2, 1]</text>
+<text x="490" y="188" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">Softmax weights</text>
+<rect x="498" y="232" width="255" height="80" rx="0" fill="#2976BD" stroke="#2976BD" stroke-width="1.5"/>
+<rect x="753" y="232" width="125" height="80" rx="0" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="624" y="278" fill="#FFFFFF" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">2/3</text>
+<text x="817" y="278" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="middle">1/3</text>
+<text x="520" y="374" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="22" font-weight="700" text-anchor="start">o = (2/3)·6 + (1/3)·0 = 4</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Weights sum to 1; the numbers shown are from the worked example.</text>
+</svg>

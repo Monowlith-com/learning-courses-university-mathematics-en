@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Simply supported beam under a uniformly distributed load, with support reactions of 6 kilonewtons each">
+<rect width="900" height="675" fill="#ffffff"/>
+<style>.t{font:600 28px system-ui,Arial,sans-serif;fill:#243246}.sub{font:18px system-ui,Arial,sans-serif;fill:#45556c}.note{font:17px system-ui,Arial,sans-serif;fill:#475569}.label{font:600 19px system-ui,Arial,sans-serif;fill:#203754}</style>
+<text x="48" y="64" class="t" >Architecture and engineering: forces on a beam</text>
+<text x="48" y="99" class="sub" >Uniformly distributed load · simplified beam model</text>
+<path d="M 180 335 L 720 335" stroke="#344357" stroke-width="12" stroke-linecap="round"/>
+<path d="M180 349 L146 386 L214 386 Z" stroke="#5f738b" stroke-width="3" fill="#eef4fa"/>
+<rect x="681" y="380" width="78" height="10" rx="4" fill="#cfd9e5"/><path d="M720 347 L688 380 L752 380 Z" stroke="#5f738b" stroke-width="3" fill="#eef4fa"/>
+<path d="M220,178 L220,313 M214.8,302.2 L220,313 L225.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M300,178 L300,313 M294.8,302.2 L300,313 L305.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M380,178 L380,313 M374.8,302.2 L380,313 L385.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M460,178 L460,313 M454.8,302.2 L460,313 L465.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M540,178 L540,313 M534.8,302.2 L540,313 L545.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M620,178 L620,313 M614.8,302.2 L620,313 L625.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M700,178 L700,313 M694.8,302.2 L700,313 L705.2,302.2" fill="none" stroke="#447fcc" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="365" y="150" class="label" >q = 3 kN/m</text>
+<path d="M180,476 L180,401 M185.2,411.8 L180,401 L174.8,411.8" fill="none" stroke="#3e80dc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M720,476 L720,401 M725.2,411.8 L720,401 L714.8,411.8" fill="none" stroke="#3e80dc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="84" y="510" class="label" >R₁ = 6 kN</text>
+<text x="650" y="510" class="label" >R₂ = 6 kN</text>
+<path d="M180 407 L720 407" stroke="#9eafc6" stroke-width="2"/>
+<text x="440" y="434" class="label" text-anchor="middle">L = 4 m</text>
+<text x="98" y="579" class="note" >F = q · L = 12 kN</text>
+<text x="495" y="579" class="note" >Mₘₐₓ = q · L² / 8 = 6 kNm</text>
+</svg>

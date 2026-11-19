@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="675" viewBox="0 0 900 675" role="img" aria-label="Schematic elliptical Hohmann transfer from a smaller to a larger circular orbit around Earth">
+<rect width="900" height="675" fill="#ffffff"/>
+<style>.t{font:600 28px system-ui,Arial,sans-serif;fill:#243246}.sub{font:18px system-ui,Arial,sans-serif;fill:#45556c}.note{font:17px system-ui,Arial,sans-serif;fill:#475569}.label{font:600 19px system-ui,Arial,sans-serif;fill:#203754}</style>
+<text x="48" y="64" class="t" >Spaceflight mathematics: ideal transfer orbit</text>
+<text x="48" y="100" class="sub" >Two circular orbits and a Hohmann ellipse · schematic</text>
+<circle cx="450" cy="338" r="206" stroke="#b5c2d2" fill="none" stroke-width="3" stroke-dasharray="8 8"/>
+<circle cx="450" cy="338" r="118" stroke="#598bce" fill="none" stroke-width="3"/>
+<ellipse cx="494" cy="338" rx="162" ry="156" stroke="#2f7ac8" fill="none" stroke-width="5"/>
+<circle cx="450" cy="338" r="28" fill="#a9c9ee" stroke="#42668d" stroke-width="2"/>
+<text x="450" y="346" class="note" text-anchor="middle">Earth</text>
+<circle cx="332" cy="338" r="8" fill="#1c6db0"/>
+<circle cx="656" cy="338" r="8" fill="#1c6db0"/>
+<text x="125" y="335" class="label" >1st impulse</text>
+<text x="704" y="335" class="label" >2nd impulse</text>
+<text x="130" y="378" class="sub" >r₁ = 6,778 km</text>
+<text x="682" y="379" class="sub" >r₂ = 7,378 km</text>
+<text x="185" y="600" class="note" >Circles: initial and target orbit</text>
+<text x="520" y="600" class="note" >Ellipse: transfer orbit</text>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Three positions in a one-dimensional heat grid: left 10, centre 20 and right 40 degrees Celsius. An explicit step with r=0.25 yields 22.5 degrees at the centre.">
+<title>Heat conduction: one computational step</title>
+<desc>Three positions in a one-dimensional heat grid: left 10, centre 20 and right 40 degrees Celsius. An explicit step with r=0.25 yields 22.5 degrees at the centre.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Heat conduction: one computational step</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Centre grid value is updated from 20 to 22,5 °C</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<rect x="94" y="192" width="232" height="125" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="210" y="240" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">10 °C</text>
+<text x="210" y="286" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">Left neighbour</text>
+<rect x="359" y="192" width="232" height="125" rx="9" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="475" y="240" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">20 °C</text>
+<text x="475" y="286" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">Previous centre</text>
+<rect x="624" y="192" width="232" height="125" rx="9" fill="#F5F8FC" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="740" y="240" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">40 °C</text>
+<text x="740" y="286" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="middle">Right neighbour</text>
+<line x1="329" y1="257" x2="348" y2="257" stroke="#2976BD" stroke-width="2" stroke-linecap="round" marker-end="url(#arr)"/>
+<line x1="620" y1="257" x2="600" y2="257" stroke="#8793A6" stroke-width="2" stroke-linecap="round" marker-end="url(#arrg)"/>
+<text x="480" y="373" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="middle">20 + 0,25 · (10 − 2·20 + 40)</text>
+<line x1="480" y1="393" x2="480" y2="430" stroke="#2976BD" stroke-width="3" stroke-linecap="round" marker-end="url(#arr)"/>
+<rect x="358" y="441" width="243" height="66" rx="9" fill="#EAF4FF" stroke="#2976BD" stroke-width="1.5"/>
+<text x="480" y="483" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">22,5 °C</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Only the centre position is updated here; boundary values must be specified separately.</text>
+</svg>

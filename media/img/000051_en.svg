@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Linearised level curves around (1,2) shown as parallel lines. The gradient there points in direction (8,7) and is perpendicular to the local level curve.">
+<title>Gradient and local level curves</title>
+<desc>Linearised level curves around (1,2) shown as parallel lines. The gradient there points in direction (8,7) and is perpendicular to the local level curve.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Gradient and local level curves</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">f(x,y) = x² + 3xy + y² at P = (1, 2)</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="350.0" y1="251.71428571428572" x2="380.0" y2="286.0" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="380.0" y1="286.0" x2="410.0" y2="320.2857142857143" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="410.0" y1="320.2857142857143" x2="440.0" y2="354.57142857142856" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="440.0" y1="354.57142857142856" x2="470.0" y2="388.8571428571429" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="470.0" y1="388.8571428571429" x2="500.0" y2="423.14285714285717" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="500.0" y1="423.14285714285717" x2="530.0" y2="457.42857142857144" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="530.0" y1="457.42857142857144" x2="560.0" y2="491.71428571428567" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="350.0" y1="208.85714285714286" x2="380.0" y2="243.14285714285717" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="380.0" y1="243.14285714285717" x2="410.0" y2="277.42857142857144" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="410.0" y1="277.42857142857144" x2="440.0" y2="311.7142857142857" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="440.0" y1="311.7142857142857" x2="470.0" y2="346.0" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="470.0" y1="346.0" x2="500.0" y2="380.2857142857143" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="500.0" y1="380.2857142857143" x2="530.0" y2="414.57142857142856" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="530.0" y1="414.57142857142856" x2="560.0" y2="448.85714285714283" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="560.0" y1="448.85714285714283" x2="590.0" y2="483.1428571428571" stroke="#2976BD" stroke-width="3" stroke-linecap="round"/>
+<line x1="350.0" y1="166.0" x2="380.0" y2="200.2857142857143" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="380.0" y1="200.2857142857143" x2="410.0" y2="234.57142857142856" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="410.0" y1="234.57142857142856" x2="440.0" y2="268.85714285714283" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="440.0" y1="268.85714285714283" x2="470.0" y2="303.1428571428571" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="470.0" y1="303.1428571428571" x2="500.0" y2="337.42857142857144" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="500.0" y1="337.42857142857144" x2="530.0" y2="371.7142857142857" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="530.0" y1="371.7142857142857" x2="560.0" y2="406.0" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="560.0" y1="406.0" x2="590.0" y2="440.2857142857143" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round"/>
+<line x1="125" y1="346" x2="803" y2="346" stroke="#8793A6" stroke-width="1.2" stroke-linecap="round"/>
+<line x1="470" y1="516" x2="470" y2="155" stroke="#8793A6" stroke-width="1.2" stroke-linecap="round"/>
+<circle cx="470" cy="346" r="8" fill="#2976BD" stroke="#FFFFFF" stroke-width="1"/>
+<text x="455" y="376" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start">P (1, 2)</text>
+<line x1="470" y1="346" x2="586.6493876795661" y2="243.9317857803797" stroke="#2976BD" stroke-width="5" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="595.6493876795661" y="228.9317857803797" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="23" font-weight="700" text-anchor="start">∇f(P) = (8, 7)</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Schematic linear approximation: ∇f points in the direction of steepest ascent.</text>
+</svg>

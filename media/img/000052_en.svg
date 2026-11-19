@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" width="960" height="600" role="img" aria-label="Directed graph with edges A to B of weight 2, A to C of weight 5, B to C of weight 1, B to D of weight 4 and C to D of weight 1. The shortest path A B C D costs 4.">
+<title>Directed, weighted graph</title>
+<desc>Directed graph with edges A to B of weight 2, A to C of weight 5, B to C of weight 1, B to D of weight 4 and C to D of weight 1. The shortest path A B C D costs 4.</desc>
+<defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#2976BD"/></marker><marker id="arrg" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#8793A6"/></marker></defs>
+<rect width="960" height="600" fill="#FFFFFF"/>
+<rect x="16" y="16" width="928" height="568" rx="12" fill="#FFFFFF" stroke="#CBD5E1"/>
+<text x="44" y="62" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start">Directed, weighted graph</text>
+<text x="44" y="91" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="start">Shortest path from A to D</text>
+<line x1="42" y1="107" x2="918" y2="107" stroke="#CBD5E1" stroke-width="1.6" stroke-linecap="round"/>
+<line x1="211.98381540497036" y1="296.88993874192477" x2="362.8205004870376" y2="223.60607759356193" stroke="#2976BD" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="291.0" y="242.5" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">2 min</text>
+<line x1="214.87009031403232" y1="312.7888536411136" x2="554.1645522688924" y2="344.46745205458944" stroke="#8793A6" stroke-width="2" stroke-linecap="round" marker-end="url(#arrg)"/>
+<text x="388.5" y="359.0" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">5 min</text>
+<line x1="421.31051074218414" y1="224.57836930588698" x2="561.2066863932334" y2="325.7340655458765" stroke="#2976BD" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="494.5" y="261.5" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">1 min</text>
+<line x1="426.8863771059463" y1="209.60853665513247" x2="760.143922332468" y2="238.69585357016553" stroke="#8793A6" stroke-width="2" stroke-linecap="round" marker-end="url(#arrg)"/>
+<text x="597.5" y="198.5" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">4 min</text>
+<line x1="618.6756238993363" y1="334.2737080906328" x2="764.2108763941741" y2="259.3866364185318" stroke="#2976BD" stroke-width="4" stroke-linecap="round" marker-end="url(#arr)"/>
+<text x="695.0" y="279.0" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle">1 min</text>
+<circle cx="185" cy="310" r="30" fill="#EAF4FF" stroke="#2976BD" stroke-width="3"/>
+<text x="185" y="319" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">A</text>
+<circle cx="397" cy="207" r="30" fill="#EAF4FF" stroke="#2976BD" stroke-width="3"/>
+<text x="397" y="216" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">B</text>
+<circle cx="592" cy="348" r="30" fill="#EAF4FF" stroke="#2976BD" stroke-width="3"/>
+<text x="592" y="357" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">C</text>
+<circle cx="798" cy="242" r="30" fill="#EAF4FF" stroke="#2976BD" stroke-width="3"/>
+<text x="798" y="251" fill="#243047" font-family="DejaVu Sans, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle">D</text>
+<rect x="267" y="454" width="425" height="60" rx="9" fill="#EAF4FF" stroke="#CBD5E1" stroke-width="1.5"/>
+<text x="480" y="492" fill="#2976BD" font-family="DejaVu Sans, Arial, sans-serif" font-size="21" font-weight="700" text-anchor="middle">A → B → C → D: 2 + 1 + 1 = 4 min</text>
+<text x="46" y="560" fill="#5A6575" font-family="DejaVu Sans, Arial, sans-serif" font-size="18" font-weight="400" text-anchor="start">Blue = shortest path; other connections are alternatives.</text>
+</svg>
