@@ -8,20 +8,20 @@ Structured learning course in English.
 ![language](https://img.shields.io/badge/language-EN-blue?style=flat-square)
 ![level](https://img.shields.io/badge/level-university-blue?style=flat-square)
 ![subject](https://img.shields.io/badge/subject-Mathematics-blue?style=flat-square)
-![modules](https://img.shields.io/badge/modules-4-blue?style=flat-square)
-![lessons](https://img.shields.io/badge/lessons-48-blue?style=flat-square)
+![modules](https://img.shields.io/badge/modules-11-blue?style=flat-square)
+![lessons](https://img.shields.io/badge/lessons-72-blue?style=flat-square)
 ![license](https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-green?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/monowlith-com/learning-courses-university-mathematics-en?style=flat-square)
 
 **[Open course](https://monowlith-com.github.io/learning-courses/?course=university_mathematics&module=M1&lesson=L1&syslang=en&doclang=en&theme=light)**
 
-[Course overview](https://monowlith-com.github.io/learning-courses/?syslang=en&doclang=de&theme=light)
+[Course overview](https://monowlith-com.github.io/learning-courses/?syslang=en&doclang=en&theme=light)
 
-[Monowlith – Home](https://monowlith-com.github.io/?syslang=en&doclang=de&theme=light)
+[Monowlith – Home](https://monowlith-com.github.io/?syslang=en&doclang=en&theme=light)
 
 ## Overview
 
-This course contains 48 lessons in 4 modules. Study in sequence or use the materials for reference, revision and further study. They do not replace formal education or an accredited qualification.
+This course contains 72 lessons in 11 modules. Study in sequence or use the materials for reference, revision and further study. They do not replace formal education or an accredited qualification.
 
 ## Contents
 

@@ -1,10 +1,10 @@
 ---
 document_id: "university_mathematics_en:study-path"
-series_id: "university_mathematics_en:M1-L1"
-series_part: 56
-document_version: "0.1.0"
+series_id: "university_mathematics_en:_index"
+series_part: 81
+document_version: "0.1.1"
 created: "2026-11-18"
-updated: "2026-11-18"
+updated: "2026-11-24"
 title: "Study Path"
 author: "Stephan Kühn"
 document_type: "Supporting material"
@@ -104,3 +104,53 @@ Official module handbooks or university study programme pages, as of 10 November
 - [M4-L13 – Mathematics for architecture, structural design and engineering](../M4-L13.md) – Independent elective and applied lesson, not a compulsory university course.
 - [M4-L14 – Mathematics for aviation, spaceflight and navigation](../M4-L14.md) – Independent elective and applied lesson, not a compulsory university course.
 :::
+
+## Additional study routes and advanced topics {#S7}
+
+The following lessons supplement the existing study routes. Follow the levels and prerequisites in the lessons; this classification is not a universal degree regulation.
+
+### M5 – Algebra and number theory
+
+- [M5-L1 – Divisibility, Euclidean algorithm and Bézout](../M5-L1.md) — Bachelor’s studies; Elective bridge
+- [M5-L2 – Congruences and Chinese remainder theorem](../M5-L2.md) — Bachelor’s studies; Elective bridge
+- [M5-L3 – Subgroups, cosets and Lagrange's theorem](../M5-L3.md) — Bachelor’s studies; Elective
+- [M5-L4 – Normal subgroups and quotient groups](../M5-L4.md) — Bachelor’s studies; Elective
+- [M5-L5 – Ideals, polynomial rings and field extensions](../M5-L5.md) — Bachelor’s studies; Elective / master’s bridge
+
+### M6 – Complex analysis
+
+- [M6-L1 – Contour integrals and Cauchy's integral formula](../M6-L1.md) — Bachelor’s studies; Elective
+- [M6-L2 – Laurent series, poles and residue theorem](../M6-L2.md) — Bachelor’s studies; Elective
+
+### M7 – Numerical analysis and optimisation
+
+- [M7-L1 – Interpolation and approximation](../M7-L1.md) — Bachelor’s studies; Elective
+- [M7-L2 – Numerical quadrature and error estimation](../M7-L2.md) — Bachelor’s studies; Elective
+- [M7-L3 – Runge–Kutta methods and numerical stability](../M7-L3.md) — Bachelor’s studies; Elective
+- [M7-L4 – KKT conditions and active constraints](../M7-L4.md) — Master’s orientation; Advanced specialisation
+
+### M8 – Algebraic topology
+
+- [M8-L1 – Homotopy and fundamental group](../M8-L1.md) — Bachelor’s studies; Elective
+
+### M9 – Stochastics, financial and actuarial mathematics
+
+- [M9-L1 – Conditional expectation and martingales](../M9-L1.md) — Bachelor’s studies; Elective
+- [M9-L2 – Brownian motion and quadratic variation](../M9-L2.md) — Bachelor’s studies; Elective
+- [M9-L3 – Itô's formula and stochastic differential equations](../M9-L3.md) — Master’s studies; Elective
+- [M9-L4 – Arbitrage-free pricing in the binomial model](../M9-L4.md) — Master’s studies; Elective
+- [M9-L5 – Insurance risk and collective risk models](../M9-L5.md) — Master’s studies; Elective
+
+### M10 – Seminar and research
+
+- [M10-L1 – Mathematical literature, proof reading and seminars](../M10-L1.md) — Bachelor’s studies; Seminar
+- [M10-L2 – Mathematical research project and reproducibility](../M10-L2.md) — Master’s studies; Research project
+
+### M11 – Advanced calculus, linear algebra and probability
+
+- [M11-L1 – Total derivative, Jacobian and inverse function theorem](../M11-L1.md) — Bachelor; Foundations and advanced study
+- [M11-L2 – Change of variables and integral theorems](../M11-L2.md) — Bachelor; Foundations and advanced study
+- [M11-L3 – Inner products, orthogonal projection and spectral theorem](../M11-L3.md) — Bachelor; Foundations and advanced study
+- [M11-L4 – Law of large numbers and central limit theorem](../M11-L4.md) — Bachelor; Foundations and advanced study
+- [M11-L5 – Banach spaces and the contraction mapping theorem](../M11-L5.md) — Bachelor; Advanced study and bridge to Master level
+
